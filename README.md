@@ -9,7 +9,8 @@ Using SQL Pewlett Hackard is offering a retirment package and is forecasting for
 Thousands of Jobs will available, and in this analysis we find the answers to generate all the
 
 # Results: 
-ERD
+
+ERD(Entity Relationship Diagram)
 
 ![This is an Image](images/ERD_PH_EmployeeDB.png)
 
