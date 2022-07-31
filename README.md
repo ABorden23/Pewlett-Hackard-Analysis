@@ -12,6 +12,8 @@ Thousands of Jobs will be available, and in this analysis we find the answers to
 
 ERD(Entity Relationship Diagram)
 
+Below is the ERD (Entity Relationship Diagram) used to visualize the relationship between the data sources and the structure of the company's employee plan to facilitate the analysis. 
+
 ![This is an Image](images/ERD_PH_EmployeeDB.png)
 
 Above is the ERD (Entity Relationship Diagram) used to visualize the relationship between the data sources. 
@@ -40,7 +42,6 @@ Out of the employees leaving, there are 29,414 Senior Engineers, 28,254 Senior S
 How many roles will need to be filled as the "silver tsunami" begins to make an impact? 
 
 When any company is planning for the future it takes the utmost attention to detail and organization skills to prepare for the "silver tsumani". Overall the count of expected employees to retire is 90,398 at Pewlett-Hackard. 
-
 
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
