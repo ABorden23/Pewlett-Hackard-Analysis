@@ -12,8 +12,6 @@ Thousands of Jobs will be available, and in this analysis we find the answers to
 
 ERD(Entity Relationship Diagram)
 
-Below is the ERD (Entity Relationship Diagram) used to visualize the relationship between the data sources and the structure of the company's employee plan to facilitate the analysis. 
-
 ![This is an Image](images/ERD_PH_EmployeeDB.png)
 
 Above is the ERD (Entity Relationship Diagram) used to visualize the relationship between the data sources. 
