@@ -41,8 +41,9 @@ How many roles will need to be filled as the "silver tsunami" begins to make an 
 When any company is planning for the future it takes the utmost attention to detail and organization skills to prepare for the "silver tsumani". Overall the count of expected employees to retire is 90,398 at Pewlett-Hackard. 
 
 
-
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+Within the upcoming years, and the most common titles of future retirees holding Senior level positions. 65% of their employees are getting ready for retirement. We can use this data analysis to better prepare for the future of Pewlett-Hackard.
 
 
 
