@@ -14,6 +14,7 @@ ERD(Entity Relationship Diagram)
 
 ![This is an Image](images/ERD_PH_EmployeeDB.png)
 
+Above is the ERD (Entity Relationship Diagram) used to visualize the relationship between the data sources. 
 
 Mentorship Eligibity 
 
