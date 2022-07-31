@@ -14,6 +14,7 @@ ERD(Entity Relationship Diagram)
 
 ![This is an Image](images/ERD_PH_EmployeeDB.png)
 
+
 Mentorship Eligibity 
 
 ![This is an Image](images/mentorship_eligibilty.png)
@@ -37,11 +38,13 @@ Out of those employees leaving, there are 29,414 Senior Engineers, 28,254 Senior
 
 How many roles will need to be filled as the "silver tsunami" begins to make an impact? 
 
-
+When any company is planning for the future it takes the utmost attention to detail and organization skills to prepare for the "silver tsumani". Overall the count of expected employees to retire is 90,398 at Pewlett-Hackard. 
 
 
 
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+
 
 
 
