@@ -4,7 +4,7 @@ Programming Software/Language Used: SQL, PostgreSQL, pgAdmin4
 
 ## Overview: 
 
-Using SQL Pewlett Hackard is offering a retirment package and is forecasting for the future of the company for veteran employees offered retirement packages and how they will fill the open roles of the retirees.
+Using SQL Pewlett Hackard is offering a retirement package and is forecasting for the future of the company for veteran employees offered retirement packages and how they will fill the open roles of the retirees.
 
 Thousands of Jobs will be available, and in this analysis we find the answers to generate future job openings, mentorship candiates
 
